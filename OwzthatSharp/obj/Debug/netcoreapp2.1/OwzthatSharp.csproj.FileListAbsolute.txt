@@ -1,0 +1,11 @@
+/Users/gregparr/code/repos/OwzthatSharp/OwzthatSharp/bin/Debug/netcoreapp2.1/OwzthatSharp.deps.json
+/Users/gregparr/code/repos/OwzthatSharp/OwzthatSharp/bin/Debug/netcoreapp2.1/OwzthatSharp.runtimeconfig.json
+/Users/gregparr/code/repos/OwzthatSharp/OwzthatSharp/bin/Debug/netcoreapp2.1/OwzthatSharp.runtimeconfig.dev.json
+/Users/gregparr/code/repos/OwzthatSharp/OwzthatSharp/bin/Debug/netcoreapp2.1/OwzthatSharp.dll
+/Users/gregparr/code/repos/OwzthatSharp/OwzthatSharp/bin/Debug/netcoreapp2.1/OwzthatSharp.pdb
+/Users/gregparr/code/repos/OwzthatSharp/OwzthatSharp/obj/Debug/netcoreapp2.1/OwzthatSharp.csprojAssemblyReference.cache
+/Users/gregparr/code/repos/OwzthatSharp/OwzthatSharp/obj/Debug/netcoreapp2.1/OwzthatSharp.csproj.CoreCompileInputs.cache
+/Users/gregparr/code/repos/OwzthatSharp/OwzthatSharp/obj/Debug/netcoreapp2.1/OwzthatSharp.AssemblyInfoInputs.cache
+/Users/gregparr/code/repos/OwzthatSharp/OwzthatSharp/obj/Debug/netcoreapp2.1/OwzthatSharp.AssemblyInfo.cs
+/Users/gregparr/code/repos/OwzthatSharp/OwzthatSharp/obj/Debug/netcoreapp2.1/OwzthatSharp.dll
+/Users/gregparr/code/repos/OwzthatSharp/OwzthatSharp/obj/Debug/netcoreapp2.1/OwzthatSharp.pdb
